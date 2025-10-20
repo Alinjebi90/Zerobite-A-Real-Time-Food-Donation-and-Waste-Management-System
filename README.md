@@ -102,11 +102,11 @@ Team Members:
 [Amrin Joshiga A] – [211423104036]
 
 
-Guide: [Guide Name]
+Guide: [Mrs. K. Cinthuja]
 
 
 🎥 Project Demo
-🎬 [Add Google Drive or YouTube Link Here]
+🎬 [https://drive.google.com/file/d/1fdRRJz4JECmPX2tRPfO3uw02Nh5NtvAM/view?usp=sharing]
 
 🏁 Conclusion
 
