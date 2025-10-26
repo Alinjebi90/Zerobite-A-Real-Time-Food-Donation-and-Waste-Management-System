@@ -1,20 +1,20 @@
-# 🍽️ ZeroBite: A Real-Time Food Donation and Waste Management System
+# ZeroBite: A Real-Time Food Donation and Waste Management System
 
 ZeroBite is a full-stack web application that connects **restaurants, event organizers, and donors** with **NGOs** to minimize food waste.  
 The platform enables **real-time food tracking**, **location-based donations**, and **automated communication** between donors and NGOs.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 🖥️ Frontend
+### Frontend
 - React.js (Create React App)
 - SCSS for styling
 - Google Maps API
 - Axios for API requests
 - React Router DOM
 
-### 🗄️ Backend
+### Backend
 - Django (Python)
 - Django REST Framework (DRF)
 - MySQL Database
@@ -22,15 +22,15 @@ The platform enables **real-time food tracking**, **location-based donations**, 
 
 ---
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
-### 1️⃣ Clone the Repository
+### 1️ Clone the Repository
 ```bash
 git clone https://github.com/<your-username>/zerobite-project.git
 cd zerobite-project
 
 
-2️⃣ Backend Setup (Django)
+2️ Backend Setup (Django)
 
 cd zerobite-backend
 python -m venv venv
@@ -42,19 +42,19 @@ pip install -r requirements.txt
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
-✅ Backend runs on: http://127.0.0.1:8000
+Backend runs on: http://127.0.0.1:8000
 
 
-3️⃣ Frontend Setup (React)
+3️ Frontend Setup (React)
 
 
 cd zerobite-frontend
 npm install
 npm start
-✅ Frontend runs on: http://localhost:3000
+Frontend runs on: http://localhost:3000
 
 
-📦 Dependencies
+Dependencies
 
 Frontend
 
@@ -75,24 +75,24 @@ Pillow
 python-dotenv
 
 
-🔑 Features
+Features
 
-👤 Restaurant and NGO user roles
-📍 Live map tracking of food donations
-⏰ Food expiry time alerts
-📨 Real-time updates between donors and NGOs
-💾 MySQL database integration
-💻 Responsive modern UI
+Restaurant and NGO user roles
+Live map tracking of food donations
+Food expiry time alerts
+Real-time updates between donors and NGOs
+MySQL database integration
+Responsive modern UI
 
 
-🧠 Future Enhancements
+Future Enhancements
 
 AI-based food prediction
 Mobile app version
 Smart donation scheduling
 
 
-👩‍💻 Team Details
+Team Details
 Project Title: ZeroBite – A Real-Time Food Donation and Waste Management System
 
 Team Members:
@@ -105,14 +105,14 @@ Team Members:
 Guide: [Mrs. K. Cinthuja]
 
 
-🎥 Project Demo
-🎬 [https://drive.google.com/file/d/1fdRRJz4JECmPX2tRPfO3uw02Nh5NtvAM/view?usp=sharing]
+Project Demo
+https://drive.google.com/file/d/1fdRRJz4JECmPX2tRPfO3uw02Nh5NtvAM/view?usp=sharing
 
-🏁 Conclusion
+Conclusion
 
 ZeroBite helps reduce food waste and promotes social responsibility by connecting donors and NGOs through real-time technology.
 
-📜 License
+License
 This project is developed for academic use only.
 © 2025 ZeroBite Team. All rights reserved.
 
