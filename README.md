@@ -55,7 +55,7 @@ python manage.py migrate
 python manage.py runserver
 Backend runs on: http://127.0.0.1:8000
 ```
-Frontend Setup (React)
+### Frontend Setup (React)
 ```bash
 cd zerobite-frontend
 
@@ -66,8 +66,8 @@ npm install
 npm start
 Frontend runs on: http://localhost:3000
 ```
-Technologies Used
-| **Part**     | **Technology**                                                                                          | **Purpose / How It’s Used**                                        |
+### Technologies Used
+| **Part**     | **Technology**                                                                                          | **Purpose**                                        |
 | ------------ | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | **Frontend** | <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" />                        | Built the entire user interface for NGOs and Restaurants.          |
 |              | <img src="https://img.shields.io/badge/SCSS-pink?logo=sass&logoColor=white" />                          | Used for styling and designing responsive layouts.                 |
