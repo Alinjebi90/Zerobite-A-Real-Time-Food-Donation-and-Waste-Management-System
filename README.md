@@ -15,20 +15,24 @@ The system also includes an **Automatic Expiry Management Module** that removes 
 By combining **automation, geolocation, and real-time data updates**, ZeroBite creates a transparent and efficient digital ecosystem for food redistribution.  
 It not only helps reduce food waste but also supports hunger relief efforts by ensuring that edible food reaches people in need on time.
 
-### Folder Structure Overview
+### 📂 Folder Structure Overview
 
 The repository contains both **frontend** and **backend** source codes along with essential project documentation and media.  
 Each folder and file is organized to ensure easy understanding and setup.
 
+```
 ZeroBite/
 │
-├── Source Code/ # Contains complete backend and frontend project files
+├── 📁 Source Code/                 # Contains complete backend and frontend project files
+│   ├── zerobite-backend/           # Django backend project folder
+│   └── zerobite-frontend/          # React frontend project folder
 │
-├── README.md # Project overview and setup instructions
-├── Zerobite Abstract.docx # Project abstract document
-├── Zerobite Project Report.docx # Detailed project report
-├── Zerobite Project ppt.pptx # Project presentation slides
-└── Zerobite_demo_video.mp4 # Recorded demo video of the system
+├── 📄 README.md                    # Project overview and setup instructions
+├── 📄 Zerobite Abstract.docx       # Project abstract document
+├── 📄 Zerobite Project Report.docx # Detailed project report
+├── 📄 Zerobite Project ppt.pptx    # Project presentation slides
+└── 🎥 Zerobite_demo_video.mp4      # Recorded demo video of the system
+```
 
 ## How to Run the Project
 
