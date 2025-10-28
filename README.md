@@ -1,4 +1,4 @@
-<h1 align="center">🍴 ZeroBite</h1>
+<h1 align="center">ZeroBite</h1>
 <p align="center">A Real-Time Food Donation and Waste Management System</p>
 
 
@@ -15,7 +15,7 @@ The system also includes an **Automatic Expiry Management Module** that removes 
 By combining **automation, geolocation, and real-time data updates**, ZeroBite creates a transparent and efficient digital ecosystem for food redistribution.  
 It not only helps reduce food waste but also supports hunger relief efforts by ensuring that edible food reaches people in need on time.
 
-### Folder Structure Overview
+## Folder Structure Overview
 
 The repository contains both **frontend** and **backend** source codes along with essential project documentation and media.  
 Each folder and file is organized to ensure easy understanding and setup.
