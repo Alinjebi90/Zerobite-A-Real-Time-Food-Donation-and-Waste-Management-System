@@ -46,18 +46,20 @@ npm start
 Frontend runs on: http://localhost:3000
 ```
 💻 Technologies Used
-Part	Technology	Purpose / How It’s Used
-Frontend	React.js	Built the user interface and components for NGO and Restaurant dashboards.
-SCSS	Used for styling and creating responsive layouts.
-React Router DOM	Implemented routing for navigation between pages (Login, Register, Dashboard).
-Axios	Used to send HTTP requests between frontend and backend APIs.
-Google Maps API	Integrated real-time map tracking for food donations and pickup locations.
-Backend	Django	Main backend framework to handle requests and manage business logic.
-Django REST Framework (DRF)	Created RESTful APIs to connect the frontend and backend.
-MySQL	Used as the database for storing user details, donations, and NGO data.
-JWT Authentication	Implemented secure login system for NGOs and Restaurants.
-Pillow	Used for handling image uploads (like food photos).
-python-dotenv	Managed environment variables securely.
+| **Part**     | **Technology**                                                                                          | **Purpose / How It’s Used**                                        |
+| ------------ | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Frontend** | <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" />                        | Built the entire user interface for NGOs and Restaurants.          |
+|              | <img src="https://img.shields.io/badge/SCSS-pink?logo=sass&logoColor=white" />                          | Used for styling and designing responsive layouts.                 |
+|              | <img src="https://img.shields.io/badge/React%20Router%20DOM-orange?logo=reactrouter&logoColor=white" /> | Used for page navigation between login, register, and dashboard.   |
+|              | <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white" />                      | Handled API requests to connect frontend with backend.             |
+|              | <img src="https://img.shields.io/badge/Google%20Maps%20API-lightgrey?logo=googlemaps&logoColor=blue" /> | Integrated live map tracking for donations and pickup points.      |
+| **Backend**  | <img src="https://img.shields.io/badge/Django-green?logo=django&logoColor=white" />                     | Main backend framework managing logic and database operations.     |
+|              | <img src="https://img.shields.io/badge/Django%20REST%20Framework-red?logo=django&logoColor=white" />    | Built RESTful APIs for communication between frontend and backend. |
+|              | <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white" />                        | Stored user information, donation data, and NGO details.           |
+|              | <img src="https://img.shields.io/badge/JWT-orange?logo=jsonwebtokens&logoColor=white" />                | Implemented secure login system with token-based authentication.   |
+|              | <img src="https://img.shields.io/badge/Pillow-yellow?logo=python&logoColor=white" />                    | Used for handling and storing food image uploads.                  |
+|              | <img src="https://img.shields.io/badge/python--dotenv-grey?logo=python&logoColor=white" />              | Managed sensitive environment variables securely.                  |
+
 
 ✨ Features
 • User Authentication: Separate roles for Restaurant and NGO
