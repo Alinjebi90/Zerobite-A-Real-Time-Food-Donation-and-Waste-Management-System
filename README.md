@@ -15,7 +15,7 @@ The system also includes an **Automatic Expiry Management Module** that removes 
 By combining **automation, geolocation, and real-time data updates**, ZeroBite creates a transparent and efficient digital ecosystem for food redistribution.  
 It not only helps reduce food waste but also supports hunger relief efforts by ensuring that edible food reaches people in need on time.
 
-### 📂 Folder Structure Overview
+### Folder Structure Overview
 
 The repository contains both **frontend** and **backend** source codes along with essential project documentation and media.  
 Each folder and file is organized to ensure easy understanding and setup.
@@ -118,3 +118,4 @@ Frontend runs on: http://localhost:3000
 **Summary:** ZeroBite reduces food wastage by linking donors and NGOs through a smart, real-time web platform.  
 It bridges the gap between surplus food providers and organizations in need — promoting community responsibility and sustainable food management.
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Alinjebi90&repo=ZeroBite&color=brightgreen&style=for-the-badge)
