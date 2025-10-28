@@ -1,14 +1,35 @@
 <h1 align="center">🍴 ZeroBite</h1>
 <p align="center">A Real-Time Food Donation and Waste Management System</p>
 
+### Folder Structure Overview
+The repository contains both **frontend and backend source codes** along with essential project documentation and media.  
+Each folder and file is organized to ensure easy understanding and project setup.
 
-## 🧠 Overview
-**ZeroBite** is a full-stack web application that connects **restaurants, event organizers, and donors** with **NGOs** to minimize food waste.  
-The platform enables **real-time food tracking**, **location-based donations**, and **automated communication** between donors and NGOs.
+ZeroBite/
+├── Source Code/ # Contains the complete backend and frontend project files
+├── README.md # Project overview and setup instructions
+├── Zerobite Abstract.docx # Project abstract document
+├── Zerobite Project Report.docx# Detailed project report
+├── Zerobite Project ppt.pptx # Presentation slides
+├── Zerobite_demo_video.mp4 # Recorded demo video of the system
 
-## 🚀 How to Run the Project
+## Overview
+**ZeroBite** is a real-time web-based Food Redistribution and Waste Management System that bridges the gap between **restaurants, event organizers, and individual donors** with **NGOs and charitable organizations**.  
+The platform aims to reduce food wastage by efficiently redistributing surplus food before it expires.
 
-### 🖥️ Backend Setup (Django)
+Through a simple and interactive interface, donors can post available food items along with details such as **quantity, location, and expiry time**, while NGOs can **view, request, and collect food donations** within their vicinity.  
+The system integrates **Google Maps API** for live location tracking, helping NGOs find the quickest route to the donor’s location.
+
+ZeroBite is built using a modern **full-stack architecture** — the **React.js frontend** provides a responsive and user-friendly interface, while the **Django REST Framework** handles backend logic, authentication, and communication with the **MySQL database**.  
+The system also includes an **Automatic Expiry Management Module** that removes expired donations to maintain food safety and reliability.
+
+By combining **automation, geolocation, and real-time data updates**, ZeroBite creates a transparent and efficient digital ecosystem for food redistribution.  
+It not only helps reduce food waste but also supports hunger relief efforts by ensuring that edible food reaches people in need on time.
+
+
+## How to Run the Project
+
+### Backend Setup (Django)
 ```bash
 cd zerobite-backend
 
@@ -31,7 +52,7 @@ python manage.py migrate
 python manage.py runserver
 Backend runs on: http://127.0.0.1:8000
 ```
-💻 Frontend Setup (React)
+Frontend Setup (React)
 ```bash
 cd zerobite-frontend
 
@@ -42,7 +63,7 @@ npm install
 npm start
 Frontend runs on: http://localhost:3000
 ```
-💻 Technologies Used
+Technologies Used
 | **Part**     | **Technology**                                                                                          | **Purpose / How It’s Used**                                        |
 | ------------ | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | **Frontend** | <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" />                        | Built the entire user interface for NGOs and Restaurants.          |
@@ -56,7 +77,7 @@ Frontend runs on: http://localhost:3000
 |              | <img src="https://img.shields.io/badge/JWT-orange?logo=jsonwebtokens&logoColor=white" />                | Implemented secure login system with token-based authentication.   |
 
 
-## ✨ Features
+## Features
 - User Authentication: Separate roles for Restaurant and NGO
 - Live Map Integration: View real-time donation locations
 - Automatic Expiry Check: Removes expired food donations
@@ -65,13 +86,13 @@ Frontend runs on: http://localhost:3000
 - Modern UI: Clean, responsive React interface
   
 
-## 🚧 Future Enhancements
+## Future Enhancements
 - AI-based food prediction for smarter donations
 - Mobile app version for Android and iOS
 - Smart scheduling for donation timing
 
 
-## 👩‍💻 Team Details
+## Team Details
 **Project Title:** ZeroBite – A Real-Time Food Donation and Waste Management System
 
 **Team Members:**  
