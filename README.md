@@ -59,27 +59,31 @@ Frontend runs on: http://localhost:3000
 |              | <img src="https://img.shields.io/badge/JWT-orange?logo=jsonwebtokens&logoColor=white" />                | Implemented secure login system with token-based authentication.   |
 
 
-✨ Features
-• User Authentication: Separate roles for Restaurant and NGO
-• Live Map Integration: View real-time donation locations
-• Automatic Expiry Check: Removes expired food donations
-• Live Status Updates: Instant communication between donors and NGOs
-• Database Integration: MySQL-based structured data storage
-• Modern UI: Clean, responsive React interface
+## ✨ Features
+- User Authentication: Separate roles for Restaurant and NGO
+- Live Map Integration: View real-time donation locations
+- Automatic Expiry Check: Removes expired food donations
+- Live Status Updates: Instant communication between donors and NGOs
+- Database Integration: MySQL-based structured data storage
+- Modern UI: Clean, responsive React interface
 
-🚧 Future Enhancements
-• AI-based food prediction for smarter donations
-• Mobile app version for Android and iOS
-• Smart scheduling for donation timing
+---
 
-👩‍💻 Team Details
-Project Title: ZeroBite – A Real-Time Food Donation and Waste Management System
+## 🚧 Future Enhancements
+- AI-based food prediction for smarter donations
+- Mobile app version for Android and iOS
+- Smart scheduling for donation timing
 
-Team Members:
-• Alin Jebitha B – 211423104032
-• Amrin Joshiga A – 211423104036
+---
 
-Guide: Mrs. K. Cinthuja
+## 👩‍💻 Team Details
+**Project Title:** ZeroBite – A Real-Time Food Donation and Waste Management System
+
+**Team Members:**  
+- Alin Jebitha B – 211423104032  
+- Amrin Joshiga A – 211423104036
+
+**Guide:** Mrs. K. Cinthuja
 
 🎥 Project Demo
 📽️ Watch Demo Video on Google Drive
