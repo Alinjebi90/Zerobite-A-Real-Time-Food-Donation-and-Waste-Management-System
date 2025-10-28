@@ -1,13 +1,10 @@
 <h1 align="center">🍴 ZeroBite</h1>
 <p align="center">A Real-Time Food Donation and Waste Management System</p>
 
----
 
 ## 🧠 Overview
 **ZeroBite** is a full-stack web application that connects **restaurants, event organizers, and donors** with **NGOs** to minimize food waste.  
 The platform enables **real-time food tracking**, **location-based donations**, and **automated communication** between donors and NGOs.
-
----
 
 ## 🚀 How to Run the Project
 
@@ -66,15 +63,13 @@ Frontend runs on: http://localhost:3000
 - Live Status Updates: Instant communication between donors and NGOs
 - Database Integration: MySQL-based structured data storage
 - Modern UI: Clean, responsive React interface
-
----
+  
 
 ## 🚧 Future Enhancements
 - AI-based food prediction for smarter donations
 - Mobile app version for Android and iOS
 - Smart scheduling for donation timing
 
----
 
 ## 👩‍💻 Team Details
 **Project Title:** ZeroBite – A Real-Time Food Donation and Waste Management System
@@ -85,13 +80,13 @@ Frontend runs on: http://localhost:3000
 
 **Guide:** Mrs. K. Cinthuja
 
-🎥 Project Demo
-📽️ Watch Demo Video on Google Drive
+## 🎥 Project Demo
+**Demo Link:** [Watch Project Demo on Google Drive](https://drive.google.com/file/d/1fdRRJz4JECmPX2tRPfO3uw02Nh5NtvAM/view?usp=drive_link)  
 
-🧾 Conclusion
-ZeroBite helps reduce food wastage and promotes community responsibility by connecting donors and NGOs through real-time technology.
-It serves as a bridge between surplus food providers and organizations in need.
+**Description:** Demonstrates how ZeroBite connects restaurants and NGOs through real-time food donation tracking and management.
 
-📜 License
-This project is developed for academic use only.
-© 2025 ZeroBite Team. All rights reserved.
+
+## 🧾 Conclusion
+**Summary:** ZeroBite reduces food wastage by linking donors and NGOs through a smart, real-time web platform.  
+It bridges the gap between surplus food providers and organizations in need — promoting community responsibility and sustainable food management.
+
