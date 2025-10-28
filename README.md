@@ -14,7 +14,7 @@ The platform enables **real-time food tracking**, **location-based donations**, 
 
 ### 🖥️ Step 1: Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/zerobite-project.git
+git clone https://github.com/<Alinjebi90>/zerobite-project.git
 cd zerobite-project
 ⚙️ Step 2: Backend Setup (Django)
 bash
