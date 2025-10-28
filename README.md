@@ -57,8 +57,6 @@ Frontend runs on: http://localhost:3000
 |              | <img src="https://img.shields.io/badge/Django%20REST%20Framework-red?logo=django&logoColor=white" />    | Built RESTful APIs for communication between frontend and backend. |
 |              | <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white" />                        | Stored user information, donation data, and NGO details.           |
 |              | <img src="https://img.shields.io/badge/JWT-orange?logo=jsonwebtokens&logoColor=white" />                | Implemented secure login system with token-based authentication.   |
-|              | <img src="https://img.shields.io/badge/Pillow-yellow?logo=python&logoColor=white" />                    | Used for handling and storing food image uploads.                  |
-|              | <img src="https://img.shields.io/badge/python--dotenv-grey?logo=python&logoColor=white" />              | Managed sensitive environment variables securely.                  |
 
 
 ✨ Features
