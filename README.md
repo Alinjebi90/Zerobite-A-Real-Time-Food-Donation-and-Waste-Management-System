@@ -23,15 +23,15 @@ Each folder and file is organized to ensure easy understanding and setup.
 ```
 ZeroBite/
 │
-├── 📁 Source Code/                 # Contains complete backend and frontend project files
+├── Source Code/                 # Contains complete backend and frontend project files
 │   ├── zerobite-backend/           # Django backend project folder
 │   └── zerobite-frontend/          # React frontend project folder
 │
-├── 📄 README.md                    # Project overview and setup instructions
-├── 📄 Zerobite Abstract.docx       # Project abstract document
-├── 📄 Zerobite Project Report.docx # Detailed project report
-├── 📄 Zerobite Project ppt.pptx    # Project presentation slides
-└── 🎥 Zerobite_demo_video.mp4      # Recorded demo video of the system
+├── README.md                    # Project overview and setup instructions
+├── Zerobite Abstract.docx       # Project abstract document
+├── Zerobite Project Report.docx # Detailed project report
+├── Zerobite Project ppt.pptx    # Project presentation slides
+└── Zerobite_demo_video.mp4      # Recorded demo video of the system
 ```
 
 ## How to Run the Project
