@@ -118,4 +118,4 @@ Frontend runs on: http://localhost:3000
 **Summary:** ZeroBite reduces food wastage by linking donors and NGOs through a smart, real-time web platform.  
 It bridges the gap between surplus food providers and organizations in need — promoting community responsibility and sustainable food management.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Alinjebi90&repo=ZeroBite&color=brightgreen&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=Alinjebi90&repo=ZeroBite&color=blue&style=flat)
