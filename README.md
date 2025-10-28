@@ -53,21 +53,22 @@ Frontend runs on: http://localhost:3000
 
 💻 Technologies Used
 🧩 Frontend
+text
 Copy code
-React.js  
-SCSS  
-React Router DOM  
-Axios  
-Google Maps API
+• React.js  
+• SCSS  
+• React Router DOM  
+• Axios  
+• Google Maps API
 ⚙️ Backend
-scss
+text
 Copy code
-Django  
-Django REST Framework (DRF)  
-MySQL  
-JWT Authentication  
-Pillow  
-python-dotenv
+• Django  
+• Django REST Framework (DRF)  
+• MySQL  
+• JWT Authentication  
+• Pillow  
+• python-dotenv
 🏷️ Technology Badges
 <p align="center"> <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react" /> <img src="https://img.shields.io/badge/Styling-SCSS-pink?logo=sass" /> <img src="https://img.shields.io/badge/Backend-Django-green?logo=django" /> <img src="https://img.shields.io/badge/API-REST%20Framework-red?logo=django" /> <img src="https://img.shields.io/badge/Database-MySQL-blue?logo=mysql" /> <img src="https://img.shields.io/badge/Authentication-JWT-orange?logo=jsonwebtokens" /> <img src="https://img.shields.io/badge/Maps-Google%20API-lightgrey?logo=googlemaps" /> </p>
 ✨ Features
