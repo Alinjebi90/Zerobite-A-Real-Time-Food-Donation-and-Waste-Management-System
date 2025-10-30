@@ -29,7 +29,7 @@ ZeroBite/
 ├── README.md                    # Project overview and setup instructions
 ├── Zerobite Abstract.docx       # Project abstract document
 ├── Zerobite Project Report.docx # Detailed project report
-├──Zerobite_demo_video           # Recorded demo video of the system
+├── Zerobite_demo_video           # Recorded demo video of the system
 └── Zerobite Project ppt.pdf     # Project ppt
 ```
 
