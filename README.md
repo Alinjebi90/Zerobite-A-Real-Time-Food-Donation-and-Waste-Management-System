@@ -29,8 +29,8 @@ ZeroBite/
 ├── README.md                    # Project overview and setup instructions
 ├── Zerobite Abstract.docx       # Project abstract document
 ├── Zerobite Project Report.docx # Detailed project report
-├── Zerobite Project ppt.pptx    # Project presentation slides
-└── Zerobite_demo_video.mp4      # Recorded demo video of the system
+├──Zerobite_demo_video           # Recorded demo video of the system
+└── Zerobite Project ppt.pdf     # Project ppt
 ```
 
 ## How to Run the Project
@@ -107,12 +107,12 @@ Frontend runs on: http://localhost:3000
 
 **Guide:** Mrs. K. Cinthuja
 
-## 🎥 Project Demo
+## Project Demo
 **Demo Link:** [Watch Project Demo on Google Drive](https://drive.google.com/file/d/1fdRRJz4JECmPX2tRPfO3uw02Nh5NtvAM/view?usp=drive_link)  
 
 **Description:** Demonstrates how ZeroBite connects restaurants and NGOs through real-time food donation tracking and management.
 
-## 🧾 Conclusion
+## Conclusion
 **Summary:** ZeroBite reduces food wastage by linking donors and NGOs through a smart, real-time web platform.  
 It bridges the gap between surplus food providers and organizations in need — promoting community responsibility and sustainable food management.
 
